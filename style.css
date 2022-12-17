@@ -1,0 +1,35 @@
+svg{
+  background-color: yellow;
+}
+
+
+}
+
+circle{
+  fill: blue;
+  stroke:red;
+  stroke-width: 5px;
+  
+}
+
+body{
+  background:#00803e url("https://gardenerspath.com/wp-content/uploads/2021/04/Purple-Iris-with-a-Bright-Blue-Butterfly.jpg") 50% 0% no-repeat;
+  height: 100vh; /* viewpoint height*/
+}
+
+@media only screen and (max-width: 600px){
+  body{
+  background-color: pink;
+  color: turquoise;
+  
+}
+
+ h1{
+   border: solid yellow 5px;
+ } 
+
+  
+}
+
+
+
